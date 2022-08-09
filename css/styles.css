@@ -55,6 +55,7 @@ font-size: 20px;
     padding-bottom: 3%  ; 
 }
 
+
 #inquire{
     color: #eeba2b;
 }
@@ -96,9 +97,12 @@ font-size: 20px;
 .text{
     margin: 25px 0;
    border: solid;
-   height: 300px;
+   height: 250px;
    padding-top: 40px;
 
+}
+.unique-head{
+    font-size: 2rem;
 }
 #faf{
     color: #eeba2b;
